@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Implicit Intents</string>
+    <string	name="edittext_uri">https://youtu.be/J_EJ_omcEFU</string>
+    <string	name="button_uri">Open Website</string>
+
+    <string	name="edittext_loc"> Youtube Christmas Project</string>
+    <string	name="button_loc">Open Location</string>
+
+    <string	name="edittext_share">Christmas Medley - Alpha Project, Like and Subscribe</string>
+    <string	name="button_share">Share This Text</string>
+
+</resources>
